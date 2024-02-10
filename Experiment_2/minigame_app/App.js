@@ -4,6 +4,7 @@ import GameScreen from "./screens/GameScreen";
 import StartGameScreen from "./screens/StartGameScreen";
 import Colors from "./constants/colors";
 import GameOverSceen from "./screens/GameOverScreen";
+import {StatusBar} from 'expo-status-bar';
 
 import { LinearGradient } from "expo-linear-gradient";
 import { useFonts } from "expo-font";
